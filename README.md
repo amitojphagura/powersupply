@@ -1,8 +1,7 @@
 # Power Supply
+A dual-rail bench power supply: barrel-jack DC input, switched, stepped down to two regulated outputs, 5V and ~3.3V. Designed in KiCad 9.
 
 <img width="1288" height="717" alt="image" src="https://github.com/user-attachments/assets/b43e00df-071b-4722-a19c-64074b60ba27" />
-
-A dual-rail bench power supply: barrel-jack DC input, switched, stepped down to two regulated outputs — 5V and ~3.3V. Designed in KiCad 9.
 
 ## Overview
 
@@ -57,6 +56,3 @@ Power Supply/
     ├── Power_Supply-F_Silkscreen.gbr
     └── drill files 
 ```
-## License
-
-Open hardware — feel free to fork, remix, or build on this. Consider adding a specific license (e.g. CERN-OHL or MIT) if you want to make reuse terms explicit.
